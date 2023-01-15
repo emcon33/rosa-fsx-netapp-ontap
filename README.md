@@ -1,5 +1,5 @@
 # ROSA integration with Amazon FSx for NetApp ONTAP- Scalable persistent storage solution for stateful container applications.
-#saved copy of an external source. 
+
 
 
 ## About the Setup
